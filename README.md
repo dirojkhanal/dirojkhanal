@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Diroj Khanal<br><br>🚀 Aspiring Full-Stack Developer (MERN Stack) | 💻 Java & React Developer | 🎓 CS Student<br><br>I’m a passionate developer who loves building scalable web applications and learning new technologies every day. I enjoy working with JavaScript, React, Node.js, and Java, and I’m currently focused on becoming a strong MERN Stack Developer.<br><br>🌱 Currently Learning<br><br>Advanced React & Next.js<br><br>Backend development with Node.js & Express<br><br>MongoDB & REST APIs<br><br>🛠️ Tech Stack<br><br>Frontend: React, Next.js, HTML, CSS, Tailwind CSS<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB, MySQL<br><br>Programming: Java, JavaScript<br><br>Tools: Git, GitHub, VS Code<br><br>📌 What I Love<br><br>Writing clean and maintainable code<br><br>Building real-world projects<br><br>Learning by doing and improving every day<br><br>📫 Let’s Connect<br><br>GitHub: You’re already here 😉<br><br>Portfolio: (Add when ready)<br><br>✨ “Consistency beats talent when talent doesn’t work hard.”
+## 👋 Hi, I’m Diroj Khanal
+
+Full-Stack Developer in progress  
+Java | JavaScript | React | Next.js | Node.js  
+
+Turning ideas into real-world applications through clean code, scalability, and consistent learning.
+
 
 
 ## 🌐 Socials:
