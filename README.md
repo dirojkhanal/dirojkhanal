@@ -1,16 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diroj%20Khanal&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=16" />
+
 <div align="center">
-
-```
-██████╗ ██╗██████╗  ██████╗      ██╗
-██╔══██╗██║██╔══██╗██╔═══██╗     ██║
-██║  ██║██║██████╔╝██║   ██║     ██║
-██║  ██║██║██╔══██╗██║   ██║██   ██║
-██████╔╝██║██║  ██║╚██████╔╝╚█████╔╝
-╚═════╝ ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝
-```
-
-# Diroj Khanal
-### `< Software Developer />` · Building on the web · Based in Nepal 🇳🇵
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF94&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+%26+PostgreSQL+Engineer;GenAI+Explorer;Building+Digital+Gurkha)](https://git.io/typing-svg)
 
@@ -107,6 +97,53 @@ philosophy : Ship it. Learn. Iterate.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dirojkhanal/dirojkhanal/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dirojkhanal/dirojkhanal/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/dirojkhanal/dirojkhanal/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> ⚙️ **Setup required:** Create `.github/workflows/snake.yml` in your profile repo — see instructions below.
+
+<details>
+<summary>📋 Click to see snake.yml workflow</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: dirojkhanal
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
 ## 🌐 Find Me
 
 <div align="center">
@@ -126,3 +163,5 @@ philosophy : Ship it. Learn. Iterate.
 *"Code is craft. Ship with intention."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
