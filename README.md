@@ -1,103 +1,129 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diroj%20Khanal&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=16" />
-
+````md
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF94&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+%26+PostgreSQL+Engineer;GenAI+Explorer;Building+Digital+Gurkha)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:22c55e&text=Diroj%20Khanal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20React%20Engineer%20•%20GenAI%20Explorer&descAlignY=58&descSize=18" />
+
+# 👋 Namaste, I'm Diroj Khanal
+
+### 🚀 Software Developer from Nepal 🇳🇵
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%2B+Node.js+Engineer;Building+Scalable+Web+Apps;Learning+AI+%26+Modern+Technologies;Ship+Fast+Learn+Faster" />
 
 </div>
 
 ---
 
-## 👾 About Me
+# 💫 About Me
 
 ```yaml
-name       : Diroj Khanal
-role       : Software Developer @ Digital Gurkha
-location   : Nepal 🇳🇵
-focus      : Full-stack web development + GenAI integration
-building   : Second Brain · Personal Portfolio
-interests  : Web apps · Music · Learning new tech
-philosophy : Ship it. Learn. Iterate.
+name: Diroj Khanal
+
+role: Software Developer @ Digital Gurkha
+
+location: Nepal 🇳🇵
+
+specialization:
+  - MERN Stack Development
+  - React & Next.js
+  - REST APIs
+  - PostgreSQL & MongoDB
+  - GenAI Integrations
+
+currently_building:
+  - Second Brain App
+  - Personal Portfolio
+  - AI-powered Products
+
+philosophy:
+  "Ship. Learn. Improve. Repeat."
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-**Frontend**
+## Frontend
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
 
-**Backend**
+## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/RESTful%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
 
-**Database**
+## Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 
-**AI / Emerging Tech**
+## Tools & Platforms
 
-![GenAI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
 
 </div>
 
 ---
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Second Brain</h3>
-      <p>A personal knowledge management app to capture, organize, and retrieve ideas — built to externalize thinking and reduce mental overhead.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Personal Portfolio</h3>
-      <p>My slice of the internet — showcasing who I am, what I build, and how I think. Designed and developed from scratch.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=dirojkhanal&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=dirojkhanal&theme=merko&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dirojkhanal&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 **Second Brain** | Personal knowledge management system with AI integration | React, Node.js, MongoDB |
+| 🌐 **Personal Portfolio** | Modern animated developer portfolio | Next.js, Tailwind |
+| 📋 **Task Workspace** | Advanced task management system | MERN Stack |
+| 🤖 **AI Integrations** | GenAI-powered productivity features | OpenAI APIs |
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dirojkhanal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirojkhanal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dirojkhanal&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dirojkhanal&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dirojkhanal&theme=github_dark" />
+
+</div>
+
+---
+
+# 🏆 Holopin Badges
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/dirojkhanal)](https://holopin.io/@dirojkhanal)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -109,59 +135,53 @@ philosophy : Ship it. Learn. Iterate.
 
 </div>
 
-> ⚙️ **Setup required:** Create `.github/workflows/snake.yml` in your profile repo — see instructions below.
+---
 
-<details>
-<summary>📋 Click to see snake.yml workflow</summary>
+# 🌐 Connect With Me
 
-```yaml
-name: Generate Snake
+<div align="center">
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<a href="mailto:khanaldiroj22@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: dirojkhanal
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<a href="https://github.com/dirojkhanal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/diroj-khanal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://bsky.app/profile/dirojkhanal">
+<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ☕ Current Focus
+
+```javascript
+const diroj = {
+  currentlyLearning: ["Next.js", "AI Integrations", "System Design"],
+  workingOn: ["Second Brain", "Portfolio", "Task Workspace"],
+  askMeAbout: ["React", "Node.js", "MongoDB", "PostgreSQL"],
+  motto: "Build fast. Learn faster."
+};
 ```
 
-</details>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/dirojkhanal)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@DirojKhanal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanaldiroj22@gmail.com)
-
-</div>
-
 ---
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=dirojkhanal&color=00ff94&style=flat-square&label=Profile+Views)](https://github.com/dirojkhanal)
+<img src="https://komarev.com/ghpvc/?username=dirojkhanal&style=for-the-badge&color=22c55e" />
 
-*"Code is craft. Ship with intention."*
+### ⭐ "Code is craft. Build with intention."
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:22c55e" />
+
+````
