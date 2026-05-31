@@ -33,15 +33,10 @@
 ```yaml
 identity:
   name:       Diroj Khanal
-  role:       Software Developer
-  company:    Digital Gurkha 🏔️
-  location:   Kupandol,Lalitpur,Nepal 🇳🇵
   stack:      MERN + Next.js + SQL + GenAI
   philosophy: "Ship. Learn. Improve. Repeat."
   open_to:    true
 ```
-
-I'm a **Software Developer** at **Digital Gurkha**, building full-stack web apps and integrating AI/LLM pipelines into production systems. I thrive in fast-paced environments where continuous learning is the default mode.
 
 - 🚀 Mastering **Next.js App Router** & advanced system design
 - 🧠 Architecting an AI-powered **Second Brain** productivity app
