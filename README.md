@@ -16,7 +16,6 @@
 
 <div align="center">
 
-<!-- Stats Badges -->
 <img src="https://img.shields.io/github/followers/dirojkhanal?label=Followers&style=for-the-badge&color=22c55e&labelColor=0d1526&logo=github" />
 &nbsp;
 <img src="https://img.shields.io/github/stars/dirojkhanal?style=for-the-badge&color=22c55e&labelColor=0d1526&label=Total%20Stars" />
@@ -80,31 +79,46 @@ identity:
 
 ## 📊 GitHub Stats
 
+<!--
+  ⚠️  IMPORTANT: Replace YOUR_VERCEL_APP below with your own deployed instance.
+  The public github-readme-stats.vercel.app is rate-limited and unreliable.
+
+  Steps to self-host (free, ~15 min):
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Go to vercel.com → New Project → import your fork
+  3. Add env variable: PAT_1 = your GitHub Personal Access Token
+     (GitHub → Settings → Developer Settings → Personal Access Tokens → classic)
+     Scopes needed: read:user, repo
+  4. Deploy → your URL will be: https://YOUR-APP-NAME.vercel.app
+  5. Replace YOUR_VERCEL_APP in all 3 image URLs below
+-->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dirojkhanal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&icon_color=22c55e&text_color=94a3b8&ring_color=22c55e&count_private=true&cache_seconds=86400" />
+<img height="180em" src="https://YOUR_VERCEL_APP.vercel.app/api?username=dirojkhanal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&icon_color=22c55e&text_color=94a3b8&ring_color=22c55e&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirojkhanal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&text_color=94a3b8&cache_seconds=86400&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=dirojkhanal&theme=github-dark-blue&hide_border=true&background=0d1526&stroke=1e3a5f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=f8fafc" />
+<img height="180em" src="https://YOUR_VERCEL_APP.vercel.app/api/top-langs/?username=dirojkhanal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&text_color=94a3b8&langs_count=8" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Streak Stats
+
+<!--
+  ⚠️  IMPORTANT: Replace YOUR_STREAK_APP below with your own deployed instance.
+
+  Steps to self-host streak stats (free, ~10 min):
+  1. Go to https://github.com/DenverCoder1/github-readme-streak-stats
+  2. Click the "Deploy to Vercel" button in their README
+  3. Add env variable: TOKEN = your GitHub Personal Access Token (same token as above)
+  4. Deploy → your URL will be: https://YOUR-STREAK-APP.vercel.app
+  5. Replace YOUR_STREAK_APP below
+-->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dirojkhanal/dirojkhanal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dirojkhanal/dirojkhanal/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dirojkhanal/dirojkhanal/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://YOUR_STREAK_APP.vercel.app?user=dirojkhanal&theme=github-dark-blue&hide_border=true&background=0d1526&stroke=1e3a5f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=f8fafc" />
 
 </div>
 
@@ -115,6 +129,49 @@ identity:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=dirojkhanal&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!--
+  ⚠️  The snake requires a GitHub Actions workflow.
+  If the SVG below is broken, set it up here:
+  https://github.com/Platane/snk
+
+  Create .github/workflows/snake.yml in your profile repo with:
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dirojkhanal/dirojkhanal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dirojkhanal/dirojkhanal/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dirojkhanal/dirojkhanal/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
