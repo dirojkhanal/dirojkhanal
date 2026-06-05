@@ -21,7 +21,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/dirojkhanal?style=for-the-badge&color=22c55e&labelColor=0d1526&label=Total%20Stars" />
 &nbsp;
-<komarev.com badge>
 <img src="https://komarev.com/ghpvc/?username=dirojkhanal&style=for-the-badge&color=22c55e&labelColor=0d1526&label=Profile+Views" />
 
 </div>
@@ -83,15 +82,15 @@ identity:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dirojkhanal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&icon_color=22c55e&text_color=94a3b8&ring_color=22c55e" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dirojkhanal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&icon_color=22c55e&text_color=94a3b8&ring_color=22c55e&count_private=true&cache_seconds=86400" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirojkhanal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&text_color=94a3b8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirojkhanal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1526&title_color=22c55e&text_color=94a3b8&cache_seconds=86400&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dirojkhanal&theme=github-dark-blue&hide_border=true&background=0d1526&stroke=1e3a5f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=f8fafc" />
+<img src="https://streak-stats.demolab.com/?user=dirojkhanal&theme=github-dark-blue&hide_border=true&background=0d1526&stroke=1e3a5f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=f8fafc" />
 
 </div>
 
@@ -115,7 +114,7 @@ identity:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dirojkhanal&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=dirojkhanal&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
