@@ -146,17 +146,13 @@ philosophy:   "Ship. Learn. Improve. Repeat."
 
 ---
 
-<!-- ============================================================
-     GITHUB STATS — replace YOUR_APP_NAME after deploying
-     ============================================================ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://YOUR_APP_NAME.vercel.app/api?username=dirojkhanal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8&ring_color=00e5ff&count_private=true&include_all_commits=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=dirojkhanal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8&ring_color=00e5ff&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="175em" src="https://YOUR_APP_NAME.vercel.app/api/top-langs/?username=dirojkhanal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirojkhanal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8&langs_count=8" />
 
 </div>
 
