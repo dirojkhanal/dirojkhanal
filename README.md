@@ -10,7 +10,7 @@
 <br/>
 
 <!-- ============================================================
-     IDENTITY BLOCK — stark, typographic, no clip-art
+     IDENTITY BLOCK — stark, typographic, no clip-arts  
      ============================================================ -->
 <div align="center">
 
