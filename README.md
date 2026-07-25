@@ -58,7 +58,7 @@
 identity:
   name:        "Diroj Khanal"
   role:        "MERN Stack & Next.js Engineer"
-  location:    "Kathmandu, Nepal 🇳🇵"
+  location:    "Kathmandu,Nepal 🇳🇵"
   open_to:     [ "remote work", "freelance", "full-time" ]
 
 stack:
