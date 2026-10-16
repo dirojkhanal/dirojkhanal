@@ -42,7 +42,7 @@ motto:     Ship. Learn. Improve. Repeat.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <!-- TODO: Replace these with your real projects. Add a live link and a repo link for each. -->
 
