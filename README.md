@@ -21,10 +21,11 @@
 I build full-stack web products with the MERN stack and Next.js, and I'm adding AI features (LLMs, RAG) to real apps.
 
 ```yaml
-name:      Diroj Khanal
+name:     Diroj Khanal
 role:     Software Developer
-location:  Kathmandu, Nepal 🇳🇵
-open_to:   [remote work, freelance, full-time]
+location: Kathmandu, Nepal 🇳🇵
+open_to:
+[remote work, freelance, full-time]
 building:  AI-powered Second Brain productivity app
 learning:  Advanced Next.js patterns, system design, LLMs in production
 motto:     Ship. Learn. Improve. Repeat.
