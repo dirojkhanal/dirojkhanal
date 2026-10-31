@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About
+## 👋About
 
 I build full-stack web products with the MERN stack and Next.js, and I'm adding AI features (LLMs, RAG) to real apps.
 
