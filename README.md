@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,30&section=header&text=Diroj%20Khanal&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=MERN%20%26%20Next.js%20Engineer&descSize=16&descAlignY=62" alt="Diroj Khanal banner" />
-
 <a href="https://github.com/dirojkhanal">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Building+full-stack+products+that+ship;Building+an+AI-powered+Second+Brain+app;MERN+%2B+Next.js+App+Router+%2B+Prisma+%2B+LLMs;Kathmandu%2C+Nepal+%7C+Open+to+Remote+Work" alt="Typing tagline" />
 </a>
