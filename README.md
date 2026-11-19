@@ -1,7 +1,6 @@
 <div align="center">
 
 # Diroj Khanal
-
 **Full-Stack Developer** &nbsp;·&nbsp; Kathmandu, Nepal &nbsp;·&nbsp; 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dirojkhanal)
