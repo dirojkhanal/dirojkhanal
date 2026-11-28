@@ -15,7 +15,7 @@
 
 ## About
 
-I build production-grade full-stack web applications using the MERN stack and Next.js. Currently focused on integrating LLMs and RAG pipelines into real products — not demos, but features that ship.
+I build production-grade full-stack web applications using the MERN stack and Next.js. Currently focused on integrating LLMs and RAG pipelines into real products not demos, but features that ship.
 - Building an **AI-powered Second Brain** productivity app.
 - Learning advanced Next.js patterns, system design, and LLMs in production
 - Based in Kathmandu; available for remote work, freelance, and full-time roles
